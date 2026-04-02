@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
@@ -691,4 +690,4 @@ function gerarPDF() {
 }
 </script>
 </body>
-</html># silasjurogt-rgb.github.io
+</html>
